@@ -1,0 +1,6 @@
+# ©︎ BBQ大好き All Rights Reserved.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://privacy.bbqdaisuki.moe/sitemap.xml
